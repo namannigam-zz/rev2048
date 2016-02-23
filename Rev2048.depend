@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1430636608 source:d:\codeblocks\rev2048\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<algorithm>
+
+1431213525 source:c:\users\dell\desktop\rev2048\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<algorithm>
+
